@@ -1,0 +1,49 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     1980 MB
+    Driver:   22.21.13.8541
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Zati\Desktop\BowlMaster\BowlMaster_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Zati\Desktop\BowlMaster\BowlMaster_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Zati\Desktop\BowlMaster\BowlMaster_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Zati\Desktop\BowlMaster\BowlMaster_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Zati\Desktop\BowlMaster\BowlMaster_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Zati\Desktop\BowlMaster\BowlMaster_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Zati\Desktop\BowlMaster\BowlMaster_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Zati\Desktop\BowlMaster\BowlMaster_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Zati\Desktop\BowlMaster\BowlMaster_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Zati\Desktop\BowlMaster\BowlMaster_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Zati\Desktop\BowlMaster\BowlMaster_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Zati\Desktop\BowlMaster\BowlMaster_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.317 seconds
+Platform assembly: C:\Users\Zati\Desktop\BowlMaster\BowlMaster_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Zati\Desktop\BowlMaster\BowlMaster_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.694024 ms
+Platform assembly: C:\Users\Zati\Desktop\BowlMaster\BowlMaster_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: C:\Users\Zati\Desktop\BowlMaster\BowlMaster_Data\Managed\Boo.Lang.dll (this message is harmless)
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[UnityTest.ITestComponent,System.Collections.Generic.HashSet`1[UnityTest.ITestComponent]].get_Item (ITestComponent key) [0x00000] in <filename unknown>:0 
+  at UnityTest.IntegrationTestRunner.IntegrationTestsProvider.FindInnerTestGroup (ITestComponent group) [0x00000] in <filename unknown>:0 
+  at UnityTest.IntegrationTestRunner.IntegrationTestsProvider..ctor (IEnumerable`1 tests) [0x00000] in <filename unknown>:0 
+  at UnityTest.TestRunner.InitRunner (System.Collections.Generic.List`1 tests, System.Collections.Generic.List`1 dynamicTestsToRun) [0x00000] in <filename unknown>:0 
+  at UnityTest.TestRunner.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 10a0 -> priority: 1 
+  Thread -> id: fb0 -> priority: 1 
+  Thread -> id: 344 -> priority: 1 
+  Thread -> id: 1c30 -> priority: 1 
+After follow spline
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

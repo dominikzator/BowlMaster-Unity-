@@ -1,0 +1,28 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TurnManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\DragLaunch.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Ball.cs" Line="46" Column="17" />
+      <File FileName="Assets\Scripts\PinSetter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PinCounter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="32" Column="85" />
+      <File FileName="Assets\Scripts\TurnManager.cs" Line="198" Column="70" />
+      <File FileName="Assets\Scripts\CameraControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScoreMaster.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ActionMaster.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ActionMasterOld.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Shredder.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScoreDisplay.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SplineController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WinText.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TotalScoreText.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HelpObjects.cs" Line="28" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

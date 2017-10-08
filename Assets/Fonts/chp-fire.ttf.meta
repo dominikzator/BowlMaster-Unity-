@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5b92ca831fdb3a4478afa02c8c3c1cc3
+timeCreated: 1504113850
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cheap Fire
+  fontNames:
+  - Cheap Fire
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
